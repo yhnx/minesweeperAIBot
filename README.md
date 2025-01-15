@@ -26,23 +26,25 @@ A Python-based AI agent designed to play the classic Minesweeper game using logi
 
 1. Start the Minesweeper AI:
    ```bash
-   python minesweeper.py
+   python3 runner.py
    ```
 
-2. The default board size is 8x8 with 8 mines. You can customize the grid size and number of mines by editing the `Minesweeper()` initialization in `minesweeper.py`:
+2. The default board size is 8x8 with 8 mines. You can customize the grid size and number of mines by editing the code  in `runner.py`:
    ```python
-   game = Minesweeper(height=10, width=10, mines=15)
+   HEIGHT = 8
+   WIDTH = 8
+   MINES = 8
    ```
-   Replace `10` and `15` with your desired dimensions and mine count.
+   Replace `8` with your desired dimensions and mine count.
 
 ## Customization
 
-- **Grid Size**: Modify the `height` and `width` parameters when initializing the `Minesweeper` class.
-- **Number of Mines**: Adjust the `mines` parameter in the same initialization.
+- **Grid Size**: Modify the `HEIGHT` and `WIDTH` parameters.
+- **Number of Mines**: Adjust the `MINES` parameter.
 
 ## Notes
 
-- This project is primarily intended as a demonstration of AI reasoning techniques.
+- This project is primarily intended as a demonstration of knowledge based AI reasoning techniques.
 - Ensure that the grid size is sufficiently large compared to the number of mines for optimal gameplay experience.
 
 ## Game Play images
