@@ -13,8 +13,8 @@ A Python-based AI agent designed to play the classic Minesweeper game using logi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/yhnx/minesweeperAIBot>
+   cd <minesweeperAIBot>
    ```
 
 2. Install the required dependencies:
