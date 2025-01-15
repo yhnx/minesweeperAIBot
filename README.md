@@ -45,6 +45,13 @@ A Python-based AI agent designed to play the classic Minesweeper game using logi
 - This project is primarily intended as a demonstration of AI reasoning techniques.
 - Ensure that the grid size is sufficiently large compared to the number of mines for optimal gameplay experience.
 
+## Game Play images
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/yhnx/minesweeperAIBot/blob/main/img/start.png" alt="Image 1" width="330">
+  <img src="https://github.com/yhnx/minesweeperAIBot/blob/main/img/play.png" alt="Image 2" width="330">
+  <img src="https://github.com/yhnx/minesweeperAIBot/blob/main/img/won.png" alt="Image 3" width="330">
+</div>
 
-Enjoy exploring the logical prowess of the Minesweeper AI Solver!
+##
+Enjoy exploring the logical prowess of the Minesweeper AI Solver! 🤖
